@@ -55,8 +55,10 @@
   },
   "devDependencies": {
     "fs-extra": "~8.1.0",
+    "husky": "^4.2.3",
     "istanbul": "~0.4.5",
     "jshint": "~2.10.2",
+    "lint-staged": "^10.0.8",
     "mocha": "~6.2.2",
     "mocha-istanbul": "~0.3.0",
     "mock-stdin": "~0.3.1",
