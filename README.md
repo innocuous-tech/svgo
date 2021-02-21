@@ -4,7 +4,7 @@
 
 ## Fork!
 
-This is a fork of the [original SVGO](https://github.com/svg/svgo). Their work is brilliant - please support them.
+This is a fork of the [original SVGO](https://github.com/svg/svgo). Their work is brilliant - please support them. When this fork was made, a lot of time had elapsed without updates. They seem to be active again, so I'm archiving this fork.
 
 ## Why?
 
